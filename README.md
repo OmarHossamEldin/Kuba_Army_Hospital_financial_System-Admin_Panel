@@ -1,18 +1,17 @@
-# Project Title
+# Army_Kuba_Hospital_financial_System-Admin_Panel
 
-One Paragraph of project description goes here
+Admin Panel For Moderators Financial System 
+Used For Correcting Mistakes Of Empolyees Whiel Using Financial System
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Just Download The Project And Install Apache And Any Database System On your Local Network.
+Add Php To System Environment.
+Use Commands (php artisan migarte& php artisan db:seed) And You Ready To Use The AdminPanel.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Recommended Apache&Mysql(Xampp).
 
 ### Installing
 
