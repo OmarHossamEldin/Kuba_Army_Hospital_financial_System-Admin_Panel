@@ -21,7 +21,7 @@ Recommended Apache&Mysql(Xampp).
 
 ## Authors
 
-* ** [OmarHossamEldinKandil] **(https://www.facebook.com/kande1l.omar) 
+* [OmarHossamEldinKandil](https://www.facebook.com/kande1l.omar) 
 
 ## Acknowledgments
 
