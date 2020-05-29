@@ -19,10 +19,6 @@ Recommended Apache&Mysql(Xampp).
 
 * [Laravel 6.x](https://laravel.com/docs/6.x) - The web framework used
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **OmarHossamEldinKandil** 
