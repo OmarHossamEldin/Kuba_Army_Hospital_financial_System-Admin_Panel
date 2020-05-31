@@ -1,4 +1,4 @@
-# Army_Kuba_Hospital_financial_System-Admin_Panel
+# Kuba_Army_Hospital_financial_System-Admin_Panel
 <p align="center"><img src="https://raw.githubusercontent.com/OmarHossamEldin/Army_Kuba_Hospital_financial_System-Admin_Panel/master/public/img/20128411.jpg" width="400"></p>
 
 Admin Panel For Moderators Financial System 
