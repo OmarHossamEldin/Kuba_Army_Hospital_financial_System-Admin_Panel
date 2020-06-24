@@ -6,5 +6,4 @@ CHANGELOG.md export-ignore
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
-*.php linguist-detectable=true
 *.laravel linguist-detectable=true
