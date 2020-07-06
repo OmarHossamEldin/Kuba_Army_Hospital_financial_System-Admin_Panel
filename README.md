@@ -6,9 +6,11 @@ Used For Correcting Mistakes Of Empolyees Whiel Using Financial System
 
 ## Getting Started
 
-Just Download The Project And Install Apache And Any Database System On your Local Network.
-Add Php To System Environment.
-Use Commands (php artisan migarte& php artisan db:seed) And You Ready To Use The AdminPanel.
+* Just Download The Project And Install Apache And Any Database System On Your Local PC.
+* Add Php To System Environment.
+* Install Composer.
+* Run (Composer Install) To Install Laravel Dependencies.
+* Use Commands (php artisan migarte& php artisan db:seed) And You Ready To Use The AdminPanel.
 
 ### Prerequisites
 
